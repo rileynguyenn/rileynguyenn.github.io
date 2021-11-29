@@ -85,7 +85,7 @@ img {
 }
 
 .myButton:hover {
-    background-color:#e63946;
+    background-color: rgba(0,0,0,0.2);
 }
 
 .myButton:active {
