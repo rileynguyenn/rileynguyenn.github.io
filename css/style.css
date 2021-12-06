@@ -94,7 +94,7 @@ img {
 }
 
 .project {
-  box-shadow: 0 0px 1px 0 rgba(0, 0, 0, 40%);
+  box-shadow: 0 0px 4px 0 rgba(0, 0, 0, 80%);
   width: 100%;
 }
 
